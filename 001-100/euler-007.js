@@ -35,4 +35,4 @@ function nthPrime(n) {
   return current
 }
 
-console.log(nthPrime(5));
+console.log(nthPrime(10001));
